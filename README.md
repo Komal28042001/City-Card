@@ -23,8 +23,6 @@ City Card is a simple and user-friendly project designed to display city-related
 
 - HTML  
 - CSS  
-- JavaScript  
-- (Add React/Node if used)
 
 ---
 
