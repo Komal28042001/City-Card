@@ -14,7 +14,7 @@ City Card is a simple and user-friendly project designed to display city-related
 
 ---
 
-## My Card Screen Short
+## 🖼️ My Card Screen Short
 <img width="812" height="499" alt="image" src="https://github.com/user-attachments/assets/b8c1e5b4-d227-40b2-adfb-72d394ac0810" />
 
 ---
