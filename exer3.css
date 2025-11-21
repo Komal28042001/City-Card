@@ -1,0 +1,80 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    /* 🔥 Important: stack heading on top of card */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card-heading {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.card {
+    border-radius: 14px;
+    width: 300px;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img {
+    width: 280px;
+    height: 200px;
+    border-radius: 14px;
+    padding: 3px;
+    margin: 3px;
+    position: relative;
+    left: 4px;
+}
+
+.nature {
+    border: 1px solid rgb(174, 174, 174);
+    border-radius: 20px;
+    color: gray;
+    position: relative;
+    top: 10px;
+    padding: 5px 10px;
+    /* top/bottom 5px, left/right 10px */
+    margin: 10px;
+}
+
+.snow {
+    border: 1px solid rgb(174, 174, 174);
+    border-radius: 20px;
+    position: relative;
+    padding: 5px 20px;
+    top: 10px;
+    color: gray;
+}
+
+.name {
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+
+}
+
+.p {
+    padding: 10px;
+    position: relative;
+    bottom: 15px;
+    top: -10px;
+    color: gray;
+}
+
+.button {
+    position: relative;
+    left: 90px;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 20px;
+    border: black none 1px;
+    color: rgb(47, 119, 174);
+    background-color: rgb(226, 240, 246);
+    font-weight: bold;
+    bottom: 20px;
+}
